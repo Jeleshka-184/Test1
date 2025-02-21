@@ -1,0 +1,31 @@
+body {
+    background-color: beige; 
+  }
+  
+  
+  .custom-form {
+    border: 5px ;
+    border-radius: 25px; /* Скругленные углы */
+    padding: 20px; /* Отступы внутри формы */
+    max-width: 400px; /* Максимальная ширина формы */
+    margin: 50px auto; /* Центрирование формы */
+    background-color:rgb(59, 116, 87)
+  }
+  
+  .error-message {
+    color: red; /* Цвет текста ошибки */
+    font-weight: bold;
+    font-size: 0.875em; /* Размер текста */
+    display: none; /* Скрываем сообщение по умолчанию */
+  }
+  
+  .custom-form input{
+    background-color: rgb(181, 230, 204) ;
+    border: 1px;
+  }
+
+  .custom-form button{
+    width: 100%;
+    background-color: rgb(124, 180, 151);
+    border: 1px;
+  }
