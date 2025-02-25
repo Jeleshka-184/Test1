@@ -5,18 +5,18 @@ body {
   
   .custom-form {
     border: 5px ;
-    border-radius: 25px; /* Скругленные углы */
-    padding: 20px; /* Отступы внутри формы */
-    max-width: 400px; /* Максимальная ширина формы */
-    margin: 50px auto; /* Центрирование формы */
+    border-radius: 25px; 
+    padding: 20px; 
+    max-width: 400px; 
+    margin: 50px auto; 
     background-color:rgb(59, 116, 87)
   }
   
   .error-message {
-    color: red; /* Цвет текста ошибки */
+    color: red; 
     font-weight: bold;
-    font-size: 0.875em; /* Размер текста */
-    display: none; /* Скрываем сообщение по умолчанию */
+    font-size: 0.875em; 
+    display: none; 
   }
   
   .custom-form input{
